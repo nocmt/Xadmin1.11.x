@@ -1,5 +1,7 @@
 # xadmin1.11.x
-xadmin1.11.x分之版本备份
+xadmin1.11.x分支版本备份
+
+适用于 Django1.11版本
 
 安装教程：
 
